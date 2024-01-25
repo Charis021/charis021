@@ -1,4 +1,4 @@
-![logo](https://github.com/Charis021/charis021/blob/54a6526f888ccf61760ddddcbe567c6dc3de33eb/Untitled%20design.gif)
+![logo](https://github.com/Charis021/charis021/blob/c4b9af07e0d4bceae83218b8532eddc4529ec0ec/%7B%20Welcome%20to%20Charis%E2%80%99%20World%20%7D.gif)
 <h1 align="center">Hi 👋, I'm Charis</h1>
 <h3 align="center">A passionate frontend developer from India!!</h3>
 
