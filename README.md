@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charis</h1>
+![logo](https://github.com/rohitmauryax/rohitmauryax/blob/453d9490ea57e8fac054e48fa967f6583466ddb3/ezgif.com-gif-maker.gif)
 <h3 align="center">A passionate frontend developer from India!!</h3>
 
 - 🌱 I’m currently learning **Node.js , Express.js, MongoDb**
